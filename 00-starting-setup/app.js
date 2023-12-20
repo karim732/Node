@@ -13,7 +13,8 @@ app.engine(
     defaultLayout: "main-layout",
   })
 );
-app.set("view engine", "handlebars");
+// app.set("view engine", "handlebars");
+app.set("view engine", "ejs");
 
 // app.set("view engine", "pug");
 app.set("views", "views");
