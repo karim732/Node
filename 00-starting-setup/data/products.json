@@ -1,16 +1,1 @@
-[
-  {
-    "id": "12345",
-    "title": "A Book",
-    "imageUrl": "https://img.freepik.com/free-photo/holy-bible-with-rays-light-coming-out-ai-generative_123827-23908.jpg?size=626&ext=jpg&ga=GA1.1.795708214.1686579950&semt=sph",
-    "description": "This is an awesome book!",
-    "price": "19"
-  },
-  {
-    "title": "book 2",
-    "imageUrl": "https://img.freepik.com/free-photo/holy-bible-with-rays-light-coming-out-ai-generative_123827-23908.jpg?size=626&ext=jpg&ga=GA1.1.795708214.1686579950&semt=sph",
-    "description": "new book",
-    "price": "80.7",
-    "id": "0.23298577175679624"
-  }
-]
+[{"id":"0.7657274730215216","title":"Book 2","imageUrl":"https://img.freepik.com/free-photo/holy-bible-with-rays-light-coming-out-ai-generative_123827-23908.jpg?size=626&ext=jpg&ga=GA1.1.795708214.1686579950&semt=sph","description":"New book added","price":"60"},{"id":"0.6800447110991759","title":"A book","imageUrl":"https://img.freepik.com/free-photo/holy-bible-with-rays-light-coming-out-ai-generative_123827-23908.jpg?size=626&ext=jpg&ga=GA1.1.795708214.1686579950&semt=sph","description":"first book","price":"40"}]
