@@ -1,12 +1,8 @@
 Node course
 
-Authentication
+Sending mail is done on different server irrespective of backend technology and framework.
 
-signup and signin functionality.
+Though we can have create mail server which is complex(security, handling mails) task, we will use third party mail servers.
 
-bcrypt
+SendGrid
 
-csrf
-- effecctive in post requests(views).
-
-connect-flash- removes data once we use.
