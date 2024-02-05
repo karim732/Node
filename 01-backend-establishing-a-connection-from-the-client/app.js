@@ -60,7 +60,7 @@ app.use((error, req, res, next) => {
   res.status(status).json({ message: message, data: data });
 });
 
-const MONGODB_URI = 'mongodb+srv://karimshaik5252:GjmyHrbbSEXJLiDX@cluster0.fsc0kdu.mongodb.net/messages'
+const MONGODB_URI = ''
 
 mongoose
   .connect(MONGODB_URI, { useNewUrlParser: true, useUnifiedTopology: true }
